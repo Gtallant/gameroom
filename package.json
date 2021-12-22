@@ -1,0 +1,19 @@
+{
+  "name": "gameroom",
+  "version": "1.0.0",
+  "description": "a platform for playing card games online",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gtallant/gameroom"
+  },
+  "author": "Griffin Tallant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gtallant/gameroom/issues"
+  },
+  "homepage": "https://github.com/Gtallant/gameroom#readme"
+}
